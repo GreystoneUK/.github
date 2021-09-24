@@ -1,6 +1,6 @@
 # Greystone Consulting Ltd
 
-[Greystone Consulting Ltd Logo](https://github.com/GreystoneUK/.github/blob/main/images/Logo_Technology_White.jpg "Greystone Consulting Ltd")
+[Greystone Consulting Ltd Logo](https://github.com/GreystoneUK/.github/raw/main/images/Logo_Technology_White.jpg "Greystone Consulting Ltd")
 
 ## A bit about us
 
